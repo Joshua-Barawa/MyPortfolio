@@ -9,11 +9,13 @@ body{
     padding:0;
     margin:0;
     background-color: #07041C;
+    overflow-x: hidden;
 }
 
 .container{
     padding:0 12%;
     margin:0;
+    overflow-x: hidden;
 }
 
 /**********************NAVBAR SECTION ************************************/
