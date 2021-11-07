@@ -312,6 +312,7 @@ footer{
         z-index: 1;
         background-color: rgb(11, 11, 36);
         width: 80%;
+        border-radius: 15px;
         
     }
 
